@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Nicolás Morell</h1>
 
 <p align="center">
-  <strong>Senior Fullstack Developer</strong> | Magento 2 Certified | eCommerce Specialist  
+  <strong>Senior Fullstack Developer</strong> | Adobe Commerce Expert | eCommerce Specialist  
 </p>
 
 <p align="center">
