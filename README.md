@@ -1,73 +1,99 @@
-# 👋 Hola, soy Nicolás Morell
+<h1 align="center">👋 Hi there! I'm Nicolás Morell</h1>
 
-**Senior Fullstack Developer** especializado en **Adobe Commerce (Magento 2)**  
-📍 Argentina | 📧 nicolas.jnm@gmail.com | 📞 +54 379 4224347  
-🔗 [LinkedIn](https://www.linkedin.com/in/jomorell)
+<p align="center">
+  <strong>Senior Fullstack Developer</strong> | Magento 2 Certified | eCommerce Specialist  
+</p>
 
----
-
-## 🧾 Sobre mí
-
-Soy un desarrollador Fullstack con más de 15 años de experiencia en tecnologías web, enfocado en el desarrollo de soluciones robustas y modulares para eCommerce con Magento 2.4.6+. Trabajo con equipos distribuidos en proyectos de gran escala B2B, B2C y marketplaces.
-
-Apasionado por la calidad de código, arquitectura limpia, performance y escalabilidad.
+<p align="center">
+  🇦🇷 Argentina · 📧 <a href="mailto:nicolas.jnm@gmail.com">nicolas.jnm@gmail.com</a> · 📞 +54 379 4224347  
+  <br/>
+  🔗 <a href="https://www.linkedin.com/in/jomorell">LinkedIn</a> | 🧑‍💻 <a href="https://github.com/jnicomorell">GitHub</a>
+</p>
 
 ---
 
-## 🧰 Stack Técnico
+## 🧠 About Me
 
-- **Magento 2.4.6+** – Módulos personalizados, integración con ERPs/CRMs, optimización de rendimiento
-- **PHP 8.1+, Symfony, Yii** – Backend escalable orientado a servicios
-- **Frontend:** HTML5, CSS3 (SASS/LESS), JavaScript ES6+, jQuery, KnockoutJS
-- **DevOps:** Docker, Git, GitHub Actions, Composer, Xdebug
-- **Cloud:** Magento Cloud, REST/SOAP APIs
-- **Base de datos:** MySQL, diseño de esquemas eficientes
-- **Otros CMS:** Prestashop, WordPress
-- **Idiomas:** Inglés avanzado (fluido en lectura y escritura técnica)
+I’m a passionate fullstack developer with over **15 years of experience** in web technologies and more than **7 years in Adobe Commerce (Magento 2.4.6+)**.
 
----
+I specialize in building **modular, high-performance eCommerce platforms**, with strong focus on:
 
-## 💼 Experiencia Destacada
+- 🔒 **Secure & scalable architecture**
+- 🚀 **Performance optimization**
+- 🧩 **Third-party integrations**
+- 🧪 **Clean, testable code**
 
-Ver experiencia completa en [LinkedIn](https://www.linkedin.com/in/jomorell)
-
-- **OMNI.PRO** – Magento Backend Developer *(2023–2024)*
-- **Perficient Latin America** – Magento Cloud Developer *(2022–2023)*
-- **Grupo Formax** – Magento Technical Lead *(2019–2022)*
-- **Comprando en Grupo** – Senior Magento Developer *(2020–2022)*
-- **Freelance** – Fullstack Dev Magento & Symfony *(2016–Actualidad)*
+I've collaborated with international teams across Latin America, the U.S., and Europe — always aiming to deliver value and maintainability.
 
 ---
 
-## 🚀 Próximos repositorios destacados
+## 🧰 Tech Stack
 
-- 🔌 **modulo-restriccion-envios-m2**  
-  Módulo para bloquear envíos a determinadas zonas según código postal.  
-  ✔️ Plugin + Observer, configuración vía admin.
-
-- 🔐 **modulo-login-2fa-m2**  
-  Módulo personalizado para 2FA en backend Magento.  
-  ✔️ Seguridad mejorada con OTP vía email.
-
-*(¡Muy pronto los subiré públicamente!)*
-
----
-
-## 📈 Stats & Badges
-
-![Magento](https://img.shields.io/badge/Magento-2.4.6-orange)
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-8.1-blue)
+![Magento](https://img.shields.io/badge/Magento-2.4.6-orange)
 ![Symfony](https://img.shields.io/badge/Symfony-6.x-black)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-green)
+![Yii](https://img.shields.io/badge/Yii-2.x-4DB33D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnicomorell&show_icons=true&count_private=true&hide_title=true)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![KnockoutJS](https://img.shields.io/badge/KnockoutJS-EF1F1F)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
+![Xdebug](https://img.shields.io/badge/Xdebug-2.9+-green)
+
+### Other
+- REST & SOAP API integrations
+- Magento Cloud
+- MySQL (optimized schema design)
+- Prestashop, WordPress
 
 ---
 
-## 📬 Contacto
+## 💼 Professional Experience
 
-- 📧 nicolas.jnm@gmail.com
-- 📞 +54 379 4224347
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jomorell)
+See full details on [LinkedIn →](https://www.linkedin.com/in/jomorell)
+
+- 🧱 **OMNI.PRO** – Magento Backend Developer *(2023–2024)*
+- ☁️ **Perficient LATAM** – Magento Cloud Developer *(2022–2023)*
+- 🧠 **Grupo Formax** – Magento Technical Lead *(2019–2022)*
+- 🛒 **Comprando en Grupo** – Senior Magento Developer *(2020–2022)*
+- 🛠 **Freelance** – Fullstack Dev: Magento & Symfony *(2016–Present)*
 
 ---
+
+## 🚀 Featured Projects *(coming soon)*
+
+### 🔌 [modulo-restriccion-envios-m2](https://github.com/jnicomorell/modulo-restriccion-envios-m2)
+Shipping restriction module based on ZIP codes for Magento 2.  
+✔️ Plugin + Observer pattern · Admin configuration
+
+### 🔐 [modulo-login-2fa-m2](https://github.com/jnicomorell/modulo-login-2fa-m2)
+2FA module for Magento 2 admin login with OTP via email.  
+✔️ Secure backend · Configurable via Admin
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jnicomorell&show_icons=true&count_private=true&theme=default" alt="GitHub Stats">
+</p>
+
+---
+
+## 📬 Let's Connect
+
+- 📧 **Email:** nicolas.jnm@gmail.com  
+- 📞 **Phone:** +54 379 4224347  
+- 🔗 **LinkedIn:** [@jomorell](https://www.linkedin.com/in/jomorell)  
+- 💼 **Portfolio Repos:** *(coming soon!)*
+
+---
+
+> 🧼 *Code is not just about making it work — it’s about making it clean, scalable, and a pleasure to maintain.*
